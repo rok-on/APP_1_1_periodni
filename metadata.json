@@ -1,0 +1,5 @@
+{
+  "description": "A Halloween-themed app that maps specific text inputs to numeric values or displays an error message, as requested by the user.",
+  "requestFramePermissions": [],
+  "name": "App"
+}
